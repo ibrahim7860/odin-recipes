@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    background-color: black;
+    font-size: 30pt;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.description {
+    color: blue;
+    font-size: 20pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.one,
+.two {
+    color: black;
+    font-size: 20pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
